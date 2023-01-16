@@ -3,6 +3,8 @@ public class gng {
         int a= 29;
         int b= 4;
         System.out.println(a%b);
+        System.out.println(a+2);
+        System.out.println("mmmmm");
 
     }
 }
